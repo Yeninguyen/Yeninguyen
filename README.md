@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yeninguyen
-- 👀 I’m interested in artificial intelligence, cybersecurity, cloud computing, and software engineering.
+- 👀 I’m interested in artificial intelligence, cybersecurity, cloud computing, software engineering, and data analyst.
 - 🌱 I’m currently learning graph algorithms, data analytics, and advanced Java programming.
 - 💞️ I’m looking to collaborate on open-source projects and tech initiatives focused on problem-solving and real-world applications.
 - 📫 How to reach me: yeninguyen1205@gmail.com or LinkedIn: www.linkedin.com/in/yeninguyen 
